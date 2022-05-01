@@ -9,7 +9,7 @@ game 'gta5'
 
 author 'Wakie Modifications (Made By: Wakie#6846)'
 description 'WM-propspawner'
-version '1.0.0'
+version '1.0.5'
 
 shared_scripts {
 	'config.lua'

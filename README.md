@@ -4,6 +4,9 @@ You are permitted to modify & re-configure this script. You are not permitted to
 # Description
 Basic Prop Spawner Script, just go into the config and add the props hash, coords, and configure its properties. 
 
+# Hotfix 1.05
+Fixed hovering objects after server restart.
+
 # Script Preformance
 While Running In The Background: 0.00ms CPU Usage
 
