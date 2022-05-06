@@ -1,5 +1,5 @@
 # Made By Wakie Modifications (Discord Server: https://discord.gg/G54rz9rcxz)
-You are permitted to modify & re-configure this script. You are not permitted to sell this script and or rip this script, You must provide proper credit to the developer of this script (Wakie Modifications) 
+**You are permitted to modify & re-configure this script. You are not permitted to sell this script and or rip this script, You must provide proper credit to the developer of this script (Wakie Modifications)**
 
 # Description
 Basic Prop Spawner Script, just go into the config and add the props hash, coords, and configure its properties. 
